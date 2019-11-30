@@ -1,0 +1,16 @@
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\Impact.exe.config
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\Impact.exe
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\Impact.pdb
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\FastColoredTextBox.dll
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\bin\Release\FastColoredTextBox.xml
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.Form1.resources
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.Properties.Resources.resources
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.csproj.GenerateResource.Cache
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.csproj.CoreCompileInputs.cache
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.exe
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.pdb
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.StartUp.resources
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.Commands.resources
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.Update.resources
+C:\Users\maurice\Desktop\TemplateSrc-master\Impact\obj\Release\Impact.csprojResolveAssemblyReference.cache
